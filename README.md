@@ -1,4 +1,4 @@
-<h1>Olá, é um prazer te receber em meu perfil!</h1>
+<h1>Olá, é um prazer receber você em meu perfil!</h1>
 
 - 👋 Olá, sou o Murilo! Tenho 17 anos, nasci em São Paulo - SP</i>
 - 👀 Sou interessado em <i>CyberSecurity!</i>
